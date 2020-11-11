@@ -18,6 +18,7 @@ const SecTableCell = withStyles({
   root: {
     borderBottom: 'none',
     textAlign: 'center',
+    width: '25%',
   },
 })(TableCell);
 
