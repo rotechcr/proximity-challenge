@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using [Redux](https://redux.js.org/), [Redux Toolkit](https://redux-toolkit.js.org/) and [Material UI](https://material-ui.com/).
 
 It also uses [Firebase](https://firebase.google.com/) as data provider.
 
